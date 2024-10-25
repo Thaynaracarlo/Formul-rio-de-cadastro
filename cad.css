@@ -10,7 +10,7 @@ body {
  
 .container {
     background: #fff;
-    padding: 20px;
+    padding: 50px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     width: 300px;
@@ -23,13 +23,13 @@ h1 {
 input {
     width: 100%;
     padding: 10px;
-    margin: 10px 0;
+    margin: 20px 0;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
  
 button {
-    width: 100%;
+    width: 108%;
     padding: 10px;
     background: #28a745;
     color: white;
